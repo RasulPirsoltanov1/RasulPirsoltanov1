@@ -2,6 +2,20 @@
 <h3 align="center">A passionate fullStack developer from Azerbaijan</h3>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulpirsoltanov1&label=Profile%20views&color=0e75b6&style=flat" alt="rasulpirsoltanov1" /> </p>
+
+- 🔭 I’m currently working on TravelGo_Asp.Net_Core_MVC_Projetc [TravelGo_Asp.Net_Core_MVC_Projetc](https://github.com/RasulPirsoltanov1/TravelGo_Asp.Net_Core_MVC_Projetc)
+
+- 🌱 I’m currently learning **Asp.Net Core 6 (API,MVC) ,React and NextJs**
+
+- 👨‍💻 All of my projects are available at [https://github.com/RasulPirsoltanov1](https://github.com/RasulPirsoltanov1)
+
+- 💬 Ask me about **Asp.Net Core 6 (API,MVC),Javascript,CSS, HTML,SQL,React and NextJs**
+
+- 📫 How to reach me **resulresull510@gmail.com**
+
+- ⚡ **The code is like a joke. It's bad if you have to explain.**
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RasulPirsoltanov1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -60,11 +74,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/snake.svg" alt="Snake animation" />
-
 
 
 <picture>
