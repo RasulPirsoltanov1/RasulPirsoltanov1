@@ -38,4 +38,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/RasulPirsoltanov1/snk)_
+
