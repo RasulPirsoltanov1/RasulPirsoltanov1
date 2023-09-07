@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasul Pirsoltanov</h1>
-<h3 align="center">A passionate fullStack developer from Azerbaijan</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=25&pause=1000&color=1CFF11&background=FF19D300&center=true&multiline=true&width=434&height=87&lines=Hi+my+name+is+Rasul.;I+am+a+fullstack+developer." alt="Typing SVG" /></a>
+</div>
 <img align="right" height="150" style="width:100%;" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"  />
 
 ###
