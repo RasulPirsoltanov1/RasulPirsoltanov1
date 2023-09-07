@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rasul Pirsoltanov</h1>
 <h3 align="center">A passionate fullStack developer from Azerbaijan</h3>
+<img align="right" height="150" style="width:100%;" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"  />
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulpirsoltanov1&label=Profile%20views&color=0e75b6&style=flat" alt="rasulpirsoltanov1" /> </p>
@@ -22,12 +23,11 @@
   <img src="https://streak-stats.demolab.com?user=RasulPirsoltanov1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RasulPirsoltanov1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+  <img align="right" height="150"  style="width:100%;" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 
 ###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
