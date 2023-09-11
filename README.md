@@ -21,9 +21,13 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RasulPirsoltanov1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=RasulPirsoltanov1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RasulPirsoltanov1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <a href="https://github.com/RasulPirsoltanov1/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RasulPirsoltanov1&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/RasulPirsoltanov1/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RasulPirsoltanov1&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+</a>
+  
 </div>
   <img align="right" height="150"  style="width:100%;" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 
