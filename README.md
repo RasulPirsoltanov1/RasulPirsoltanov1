@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on TravelGo_Asp.Net_Core_MVC_Projetc [TravelGo_Asp.Net_Core_MVC_Projetc](https://github.com/RasulPirsoltanov1/TravelGo_Asp.Net_Core_MVC_Projetc)
 
-- 🌱 I’m currently learning **Asp.Net Core 6 (API,MVC) ,React and NextJs**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RasulPirsoltanov1](https://github.com/RasulPirsoltanov1)
 
