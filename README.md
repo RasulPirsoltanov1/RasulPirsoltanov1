@@ -26,7 +26,11 @@
 <a href="https://github.com/RasulPirsoltanov1/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RasulPirsoltanov1&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
-  
+  <picture style="width:100%; max-height:10000px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake.svg" style="max-height:10000px; width:100%;">
+</picture>
 </div>
   <img align="right" height="150"  style="width:100%;" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 
@@ -79,11 +83,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<picture style="width:100%; max-height:10000px">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake.svg" style="max-height:10000px; width:100%;">
-</picture>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasulPirsoltanov1&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
