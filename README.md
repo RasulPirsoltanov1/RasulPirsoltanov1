@@ -20,11 +20,9 @@
 
 
 <div align="center">
-   <img align="center" style="width:100%; height:400px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+   <img align="center" style="width:100%;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </a>
-<a href="https://github.com/RasulPirsoltanov1/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RasulPirsoltanov1&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
-</a>
+
   <picture style="width:100%; max-height:10000px">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake.svg">
