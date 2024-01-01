@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RasulPirsoltanov1](https://github.com/RasulPirsoltanov1)
 
-- 💬 Ask me about **Asp.Net Core 6 (API,MVC),Javascript,CSS, HTML,SQL,React and NextJs**
+- 💬 Ask me about **Asp.Net Core 6 (API,MVC),Javascript,CSS, HTML,SQL, and React**
 
 - 📫 How to reach me **resulresull510@gmail.com**
 
