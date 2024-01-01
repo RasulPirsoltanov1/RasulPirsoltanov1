@@ -4,30 +4,24 @@
 </div>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulpirsoltanov1&label=Profile%20views&color=0e75b6&style=flat" alt="rasulpirsoltanov1" /> </p>
 
-- 🔭 I’m currently working on TravelGo_Asp.Net_Core_MVC_Projetc [TravelGo_Asp.Net_Core_MVC_Projetc](https://github.com/RasulPirsoltanov1/TravelGo_Asp.Net_Core_MVC_Projetc)
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/RasulPirsoltanov1](https://github.com/RasulPirsoltanov1)
-
-- 💬 Ask me about **Asp.Net Core 6 (API,MVC),Javascript,CSS, HTML,SQL, and React**
-
+ <picture style="width:100%; max-height:10000px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake.svg" style="max-height:10000px; width:100%;">
+</picture>
+<div align="center">
+   <img align="center" style="width:100%;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</a>
+  
 - 📫 How to reach me **resulresull510@gmail.com**
 
 - ⚡ **The code is like a joke. It's bad if you have to explain.**
 
 
-<div align="center">
-   <img align="center" style="width:100%;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</a>
 
-  <picture style="width:100%; max-height:10000px">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RasulPirsoltanov1/RasulPirsoltanov1/output/github-contribution-grid-snake.svg" style="max-height:10000px; width:100%;">
-</picture>
+
+ 
 </div>
   <img align="right" height="150"  style="width:100%;" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 
@@ -84,5 +78,5 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasulPirsoltanov1&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulpirsoltanov1&label=Profile%20views&color=0e75b6&style=flat" alt="rasulpirsoltanov1" /> </p>
 
