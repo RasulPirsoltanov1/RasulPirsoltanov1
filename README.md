@@ -11,7 +11,7 @@
 </picture>
 
   
-- 📫 How to reach me **resulresull510@gmail.com**
+  # 📫 My Email Address: **resulresull510@gmail.com**
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=F7EE27&random=false&width=700&lines=%E2%9A%A1+The+code+is+like+a+joke.+It's+bad+if+you+have+to+explain.)](https://git.io/typing-svg)
 
