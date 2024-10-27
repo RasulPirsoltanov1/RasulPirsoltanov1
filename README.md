@@ -1,6 +1,6 @@
 <!--- <h1 align="center">Hi 👋, I'm Rasul Pirsoltanov</h1>--->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=25&pause=1000&color=1CFF11&background=FF19D300&center=true&multiline=true&width=434&height=87&lines=Hi+my+name+is+Rasul.;I+am+a+fullstack+developer." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=25&pause=1000&color=1CFF11&background=FF19D300&center=true&multiline=true&width=434&height=87&lines=You+are+welcome." alt="Typing SVG" /></a>
 
 ###
 
